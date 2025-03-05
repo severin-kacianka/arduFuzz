@@ -1,4 +1,5 @@
-	ARDU=/home/kacianka/.arduino15
+# here set the path to your arduino installation.
+ARDU=/home/kacianka/.arduino15
 # these flags come directly from the IDE compile
 # we can change them, but we need good reason to:) 
 CC = ${ARDU}/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/arm-none-eabi-g++ 
