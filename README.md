@@ -3,6 +3,7 @@
 Your need to install the arduinio IDE: 
 https://www.arduino.cc/en/software
 get the linux zip version of it. And I assume you need to run it at least once (more details later...)
+The first line in the makefile then has the path to the IDE libraries. 
 
 # Compilation
 This should build a blink file for arduino without the IDE the compilation now is a bit tricky it goes a bit like this:
