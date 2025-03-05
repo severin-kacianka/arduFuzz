@@ -1,5 +1,5 @@
 # ArduFuzz
-# Prequeits 
+# Prerequisites
 Your need to install the arduinio IDE: 
 https://www.arduino.cc/en/software
 get the linux zip version of it. And I assume you need to run it at least once (more details later...)
