@@ -1,7 +1,11 @@
 # ArduFuzz
+# Prequeits 
+Your need to install the arduinio IDE: 
+https://www.arduino.cc/en/software
+get the linux zip version of it. And I assume you need to run it at least once (more details later...)
 
-This should build a blink file for arduino without the IDE
- the compilation now is a bit tricky it goes a bit like this:
+# Compilation
+This should build a blink file for arduino without the IDE the compilation now is a bit tricky it goes a bit like this:
 1. compile the core arduino library
 1. compile the main.cpp
 1. compile the variant, which is as far as I know just a library for the specific board
